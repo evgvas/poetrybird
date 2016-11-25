@@ -1,0 +1,46 @@
+body {
+  /* background-color: #DF86CA; */
+  background-image: url(https://psv4.vk.me/c810535/u4383498/docs/25a5a2ea4614/Untitled-1.jpg?extra=MfDcjbFgt0YqNjOxpgTeL7Qu9jAuV8uUjwCKqqpZiwwOLaDTuUnmBpSQaDHRaVHseTUiibl7D_5fFI9uMy6PySLXDcShx680dqaaZFRfrXPv3mCylA);
+}
+
+.logo {
+  padding: 25px 0px 0 25px;
+}
+
+.main-header {
+  height: 280px;
+  /* border: 5px #EF8FE2 solid; */
+}
+
+p {
+  font-family: "v_BadaBoom BB";
+  font-size: 3.5em;
+  display: inline-block;
+  position: absolute;
+  margin: 0;
+  left: 350px;
+  top: 50px;
+  text-shadow: #583A73 3px 3px 8px;
+}
+
+.b {
+  width: 200px;
+  height: 80px;
+  background-image: url("https://psv4.vk.me/c810523/u4383498/docs/533662e0050c/1.png?extra=bu84PlOCZyaPbPEkDqxLZcKxXepPl4ZExae0uJv07PeD5oItoNCSncFK0aY-GyHiGpknRoupNk9qn0JhSeCHsBEEqt5p7jnt_GYk9AG_N61ycc-PCQ");
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: 60px;
+  margin-top: 0px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: "v_BadaBoom BB";
+  font-size: 1.6em;
+  line-height: 80px;
+}
+
+.b:hover{
+  background-image: url("https://psv4.vk.me/c812133/u4383498/docs/8a13cc5205d5/2.png?extra=hgs4VNJ6XmOkbFSR1Jq4qf-HlOqVoDmJhuR28PuEvIXoMs8Yc37z-lHtRDkzvHWcTUFsmpTq8tvisy2-WVYr6dZmdv7kIDxuj0VaT7yyBm55p4zjvQ");
+  background-repeat: no-repeat;
+  color: white;
+}
+
